@@ -1,0 +1,21 @@
+# Python/Django specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# VS Code or PyCharm settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
